@@ -22,7 +22,7 @@ https://www.skstore.com.au/electronics/pcb/ACYONP
 
 more pictures in the wiki
 
-https://githib.com/SkullKill/ACYONP-PCB/wiki
+https://github.com/SkullKill/ACYONP-PCB/wiki
 
   ------------------------------------------------------------
 ## Code Used

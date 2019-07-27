@@ -1,0 +1,16 @@
+[Unit]
+Description=acyonp: Access-Control-Yubikey-OTP-NFC-Pi
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/usr/local/sbin
+ExecStart=/usr/bin/python -u /usr/local/sbin/acyonp_py2.py >> /var/log/acyonp/acyonp.log 2>&1
+User=pi
+Group=pi
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target
+

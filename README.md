@@ -8,7 +8,7 @@ Uses Inturrupt and Threads to minimise overhead, and to be non blocking as much 
 
 All options are completely customizable through the ini config file
 
-The script [ACYONP](https://githib.com/SkullKill/ACYONP) is design specificly for the Raspberry Pi.
+The script [ACYONP](https://github.com/SkullKill/ACYONP) is design specificly for the Raspberry Pi.
 
 
 ## V 1.0 21/05/2019 - Initial Release
@@ -18,7 +18,7 @@ The script [ACYONP](https://githib.com/SkullKill/ACYONP) is design specificly fo
 
 https://www.skstore.com.au/electronics/pcb/ACYONP
 
-[ACYONP-PCB](https://githib.com/SkullKill/ACYONP-PCB)
+[ACYONP-PCB](https://github.com/SkullKill/ACYONP-PCB)
 
 more pictures in the wiki
 
@@ -27,7 +27,7 @@ https://github.com/SkullKill/ACYONP-PCB/wiki
   ------------------------------------------------------------
 ## Code Used
 
-[ACYONP](https://githib.com/SkullKill/ACYONP)
+[ACYONP](https://github.com/SkullKill/ACYONP)
 
 
 _____

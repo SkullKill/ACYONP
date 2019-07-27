@@ -2,11 +2,6 @@
 Access Control Yubikey OTP NFC Pi (ACYONP). For Raspberry Pi. This is a **Door Access Control using Electronic Door Strike, with Yubikey OTP via NFC / KeyPad / WebInterface for Authentication.**
 
 
-
-please refer to the wiki for pictures of the setup [ACYONP Wiki](https://github.com/SkullKill/ACYONP/wiki)
-
-This is a **Door Access Control using Electronic Door Strike, with Yubikey OTP via NFC / KeyPad / WebInterface for Authentication.**
-
 Web interface shows the status of the whole system, along with the ability to enter pin/password/yubikey OTP string for authentication to unlock the door
 
 Uses Inturrupt and Threads to minimise overhead, and to be non blocking as much as possible.

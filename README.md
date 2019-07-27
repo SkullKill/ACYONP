@@ -10,6 +10,12 @@ All options are completely customizable through the ini config file
 
 The script [ACYONP](https://github.com/SkullKill/ACYONP) is design specificly for the Raspberry Pi.
 
+ACYONP-SMD-01.jpg
+NFC Reader is at the top of the Box, inside. putting the yubikey on top of the box will scan the yubikey neo / yubikey 5 nfc.
+![ACYONP-SMD-01.jpg](https://github.com/SkullKill/ACYONP-PCB/wiki/images/ACYONP-SMD-01.jpg)
+
+ACYONP-webinterface-01.jpg
+![ACYONP-webinterface-01.jpg](https://github.com/SkullKill/ACYONP-PCB/wiki/images/ACYONP-webinterface-01.jpg)
 
 ## V 1.0 21/05/2019 - Initial Release
 
@@ -23,6 +29,12 @@ https://www.skstore.com.au/electronics/pcb/ACYONP
 more pictures in the wiki
 
 https://github.com/SkullKill/ACYONP-PCB/wiki
+
+ACYONP-SMD-Front-Red-RT-V1.2.jpg
+![ACYONP-SMD-Front-Red-RT-V1.2.jpg](https://github.com/SkullKill/ACYONP-PCB/wiki/images/ACYONP-SMD-Front-Red-RT-V1.2.jpg)
+
+ACYONP-SMD-Back-Red-V1.2.jpg
+![ACYONP-SMD-Back-Red-V1.2.jpg](https://github.com/SkullKill/ACYONP-PCB/wiki/images/ACYONP-SMD-Back-Red-V1.2.jpg)
 
   ------------------------------------------------------------
 ## Code Used

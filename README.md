@@ -90,7 +90,7 @@ more info at https://www.raspberrypi.org/documentation/configuration/uart.md
 disable linux console through serial raspi-config
 
     sudo raspi-config
-    Select option 5, **Interfacing options**, then option P6, **Serial**, and select **No**. Exit raspi-config
+    Select option 5, **Interfacing options**, then option **P6 Serial**, and select **No** (for login shell), and select **yes** (for serial port hardware). Exit raspi-config (Finish)
 
 swap bluetooth to use miniUART, and restore UART0/ttyAMO to GPIO 14/15 (this is done automaticly if using the custom ACYONP pcb board.
 
